@@ -1,6 +1,8 @@
 # Youtube Trending Visualisation
 
 ## How to run
+
+- Node Package Manager (NPM) is required
 ```
 git clone https://github.com/DominikGuzowski/yt-trends-vis.git
 cd ./yt-trends-vis
