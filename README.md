@@ -1,7 +1,12 @@
 # Youtube Trending Visualisation
 
 ## How to run
-
+```
+git clone https://github.com/DominikGuzowski/yt-trends-vis.git
+cd ./yt-trends-vis
+npm install
+npm run dev
+```
 
 ## React & Vite
 
